@@ -1,6 +1,6 @@
 {
   "name": "wood-mysql",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/jlego/wood-mysql#readme",
   "dependencies": {
     "mysql2": "^1.6.4",
-    "wood-querysql": "^1.0.0"
+    "wood-querysql": "^1.0.2"
   }
 }
